@@ -1,0 +1,203 @@
+.modal-body {
+  padding: 0 !important;
+  overflow: auto;
+}
+
+.modal-body .username {
+  width: 100%;
+  padding: 10px 12px;
+  font-size: 20px;
+  font-weight: 500;
+  border-bottom: 1px solid #eae6e6;
+}
+
+.all-permissions {
+  position: relative;
+}
+
+.all-permissions > i {
+  position: absolute;
+  left: 7px;
+  font-size: 20px;
+  top: 8px;
+  color: #5f5f5f;
+}
+
+.modal-body .all-permissions {
+  width: 40%;
+  float: left;
+}
+
+.modal-body .all-permissions > input {
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid #eae6e6;
+  height: 35px;
+  border-right: 1px solid #eae6e6;
+  font-size: 16px;
+  padding: 7px 7px 7px 35px;
+  background: #d6d6d669;
+}
+
+.modal-body .all-permissions > span {
+  width: 100%;
+  display: block;
+  padding: 7px 10px;
+  border-bottom: 1px solid #eae6e6;
+  border-right: 1px solid #eae6e6;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 400;
+  color: blue;
+}
+
+.modal-body .all-permissions > div {
+  width: 100%;
+  height: 254px;
+  display: block;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+
+.modal-body .all-permissions > div > div {
+  padding: 7px 10px;
+  border-bottom: 1px solid #eae6e6;
+  border-right: 1px solid #eae6e6;
+  cursor: pointer;
+  transition: ease-in-out 0.21s;
+}
+
+.modal-body .all-permissions > div > div:nth-child(odd) {
+  background-color: #00b0ff3b;
+  transition: ease-in-out 0.21s;
+}
+
+.modal-body .arrow-buttons {
+  width: 20%;
+  float: left;
+  display: block;
+  height: 326px;
+  background: #f1f1f1;
+}
+
+.grated-permissions {
+  position: relative;
+}
+
+.grated-permissions > i {
+  position: absolute;
+  left: 7px;
+  font-size: 20px;
+  top: 8px;
+  color: #5f5f5f;
+}
+
+.modal-body .grated-permissions {
+  width: 40%;
+  float: left;
+}
+
+.modal-body .grated-permissions > input {
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid #eae6e6;
+  height: 35px;
+  border-left: 1px solid #eae6e6;
+  font-size: 16px;
+  padding: 7px 7px 7px 35px;
+  background: #d6d6d669;
+}
+
+.modal-body .grated-permissions > span {
+  width: 100%;
+  display: block;
+  padding: 7px 10px;
+  border-bottom: 1px solid #eae6e6;
+  border-left: 1px solid #eae6e6;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 400;
+  color: blue;
+}
+
+.modal-body .grated-permissions > div {
+  width: 100%;
+  height: 254px;
+  display: block;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+
+.modal-body .grated-permissions > div > div {
+  padding: 7px 10px;
+  border-bottom: 1px solid #eae6e6;
+  border-left: 1px solid #eae6e6;
+  cursor: pointer;
+  transition: ease-in-out 0.21s;
+}
+
+.modal-body .grated-permissions > div > div:nth-child(odd) {
+  background-color: #00b0ff3b;
+  transition: ease-in-out 0.21s;
+}
+
+.modal-body {
+  position: relative;
+  padding: 10px;
+  overflow: auto;
+}
+
+.rodal-dialog {
+  padding: 0 !important;
+}
+
+.arrow-buttons > span:first-child {
+  display: block;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.arrow-buttons > span:last-child {
+  display: block;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.arrow-buttons > span:first-child > i {
+  font-size: 50px;
+  color: #000000b0;
+  background: white;
+  border-radius: 50%;
+  box-shadow: 0px 0px 7px 0px #0000007a;
+  cursor: pointer;
+  transition: ease-in-out 0.21s;
+}
+
+.arrow-buttons > span:last-child > i {
+  transform: rotate(180deg);
+  font-size: 50px;
+  color: #000000b0;
+  background: white;
+  border-radius: 50%;
+  box-shadow: 0px 0px 7px 0px #0000007a;
+  cursor: pointer;
+  transition: ease-in-out 0.21s;
+}
+
+.arrow-buttons > span > i:hover {
+  background: #0081f3;
+  color: white;
+  transition: ease-in-out 0.21s;
+}
+
+.draggable-selected {
+  background: #0081f3 !important;
+  color: white !important;
+  transition: ease-in-out 0.21s;
+}
+
+.draggable-selected-delete {
+  background: #ff2626 !important;
+  color: white !important;
+  transition: ease-in-out 0.21s;
+}
