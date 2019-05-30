@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react_draggable/static/css/main.66d4a23a.chunk.css",
-    "main.js": "/react_draggable/static/js/main.c8b4d976.chunk.js",
-    "main.js.map": "/react_draggable/static/js/main.c8b4d976.chunk.js.map",
-    "runtime~main.js": "/react_draggable/static/js/runtime~main.28845ba0.js",
-    "runtime~main.js.map": "/react_draggable/static/js/runtime~main.28845ba0.js.map",
-    "static/css/2.4364cc03.chunk.css": "/react_draggable/static/css/2.4364cc03.chunk.css",
-    "static/js/2.ca656cb4.chunk.js": "/react_draggable/static/js/2.ca656cb4.chunk.js",
-    "static/js/2.ca656cb4.chunk.js.map": "/react_draggable/static/js/2.ca656cb4.chunk.js.map",
-    "index.html": "/react_draggable/index.html",
-    "precache-manifest.742bb57168c9859265afdebcf0e00630.js": "/react_draggable/precache-manifest.742bb57168c9859265afdebcf0e00630.js",
-    "service-worker.js": "/react_draggable/service-worker.js",
-    "static/css/2.4364cc03.chunk.css.map": "/react_draggable/static/css/2.4364cc03.chunk.css.map",
-    "static/css/main.66d4a23a.chunk.css.map": "/react_draggable/static/css/main.66d4a23a.chunk.css.map"
+    "main.css": "/react_draggable/public/static/css/main.66d4a23a.chunk.css",
+    "main.js": "/react_draggable/public/static/js/main.c8b4d976.chunk.js",
+    "main.js.map": "/react_draggable/public/static/js/main.c8b4d976.chunk.js.map",
+    "runtime~main.js": "/react_draggable/public/static/js/runtime~main.ce498a39.js",
+    "runtime~main.js.map": "/react_draggable/public/static/js/runtime~main.ce498a39.js.map",
+    "static/css/2.4364cc03.chunk.css": "/react_draggable/public/static/css/2.4364cc03.chunk.css",
+    "static/js/2.ca656cb4.chunk.js": "/react_draggable/public/static/js/2.ca656cb4.chunk.js",
+    "static/js/2.ca656cb4.chunk.js.map": "/react_draggable/public/static/js/2.ca656cb4.chunk.js.map",
+    "index.html": "/react_draggable/public/index.html",
+    "precache-manifest.7021b21a913efa60780a897788a2876e.js": "/react_draggable/public/precache-manifest.7021b21a913efa60780a897788a2876e.js",
+    "service-worker.js": "/react_draggable/public/service-worker.js",
+    "static/css/2.4364cc03.chunk.css.map": "/react_draggable/public/static/css/2.4364cc03.chunk.css.map",
+    "static/css/main.66d4a23a.chunk.css.map": "/react_draggable/public/static/css/main.66d4a23a.chunk.css.map"
   }
 }
