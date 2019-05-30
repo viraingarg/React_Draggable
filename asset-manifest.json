@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-draggable/static/css/main.66d4a23a.chunk.css",
-    "main.js": "/react-draggable/static/js/main.561ad9bf.chunk.js",
-    "main.js.map": "/react-draggable/static/js/main.561ad9bf.chunk.js.map",
-    "runtime~main.js": "/react-draggable/static/js/runtime~main.2b5c71e3.js",
-    "runtime~main.js.map": "/react-draggable/static/js/runtime~main.2b5c71e3.js.map",
-    "static/css/2.4364cc03.chunk.css": "/react-draggable/static/css/2.4364cc03.chunk.css",
-    "static/js/2.ca656cb4.chunk.js": "/react-draggable/static/js/2.ca656cb4.chunk.js",
-    "static/js/2.ca656cb4.chunk.js.map": "/react-draggable/static/js/2.ca656cb4.chunk.js.map",
-    "index.html": "/react-draggable/index.html",
-    "precache-manifest.3e70ecf977c25c71f99c79377d0238c7.js": "/react-draggable/precache-manifest.3e70ecf977c25c71f99c79377d0238c7.js",
-    "service-worker.js": "/react-draggable/service-worker.js",
-    "static/css/2.4364cc03.chunk.css.map": "/react-draggable/static/css/2.4364cc03.chunk.css.map",
-    "static/css/main.66d4a23a.chunk.css.map": "/react-draggable/static/css/main.66d4a23a.chunk.css.map"
+    "main.css": "/React_Draggable/static/css/main.66d4a23a.chunk.css",
+    "main.js": "/React_Draggable/static/js/main.5339c69d.chunk.js",
+    "main.js.map": "/React_Draggable/static/js/main.5339c69d.chunk.js.map",
+    "runtime~main.js": "/React_Draggable/static/js/runtime~main.80fe3ebf.js",
+    "runtime~main.js.map": "/React_Draggable/static/js/runtime~main.80fe3ebf.js.map",
+    "static/css/2.4364cc03.chunk.css": "/React_Draggable/static/css/2.4364cc03.chunk.css",
+    "static/js/2.ca656cb4.chunk.js": "/React_Draggable/static/js/2.ca656cb4.chunk.js",
+    "static/js/2.ca656cb4.chunk.js.map": "/React_Draggable/static/js/2.ca656cb4.chunk.js.map",
+    "index.html": "/React_Draggable/index.html",
+    "precache-manifest.cfd490c76b704423af5959086b3c30c1.js": "/React_Draggable/precache-manifest.cfd490c76b704423af5959086b3c30c1.js",
+    "service-worker.js": "/React_Draggable/service-worker.js",
+    "static/css/2.4364cc03.chunk.css.map": "/React_Draggable/static/css/2.4364cc03.chunk.css.map",
+    "static/css/main.66d4a23a.chunk.css.map": "/React_Draggable/static/css/main.66d4a23a.chunk.css.map"
   }
 }
