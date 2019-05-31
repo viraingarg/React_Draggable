@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d0e56b3cdddb32c9017409c8369d04d6",
+    "revision": "5085ce9a2ed73b454a236e835c318836",
     "url": "/React_Draggable/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React_Draggable/static/css/2.4364cc03.chunk.css"
   },
   {
-    "revision": "07d11f9db3063c427355",
+    "revision": "d3b370c9806d94ffc4aa",
     "url": "/React_Draggable/static/css/main.66d4a23a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React_Draggable/static/js/2.ca656cb4.chunk.js"
   },
   {
-    "revision": "07d11f9db3063c427355",
-    "url": "/React_Draggable/static/js/main.5339c69d.chunk.js"
+    "revision": "d3b370c9806d94ffc4aa",
+    "url": "/React_Draggable/static/js/main.acb52b90.chunk.js"
   },
   {
     "revision": "73f5827e156573dedeba",
