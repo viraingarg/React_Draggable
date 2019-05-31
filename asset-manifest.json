@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React_Draggable/static/css/main.66d4a23a.chunk.css",
+    "main.css": "/React_Draggable/static/css/main.e1427b0a.chunk.css",
     "main.js": "/React_Draggable/static/js/main.e9efb26c.chunk.js",
     "main.js.map": "/React_Draggable/static/js/main.e9efb26c.chunk.js.map",
     "runtime~main.js": "/React_Draggable/static/js/runtime~main.80fe3ebf.js",
@@ -9,9 +9,9 @@
     "static/js/2.ff374426.chunk.js": "/React_Draggable/static/js/2.ff374426.chunk.js",
     "static/js/2.ff374426.chunk.js.map": "/React_Draggable/static/js/2.ff374426.chunk.js.map",
     "index.html": "/React_Draggable/index.html",
-    "precache-manifest.19ff6352fe033a70b6b91a3a18621576.js": "/React_Draggable/precache-manifest.19ff6352fe033a70b6b91a3a18621576.js",
+    "precache-manifest.545d45f828f8047b8498a60e0a4faadf.js": "/React_Draggable/precache-manifest.545d45f828f8047b8498a60e0a4faadf.js",
     "service-worker.js": "/React_Draggable/service-worker.js",
     "static/css/2.4364cc03.chunk.css.map": "/React_Draggable/static/css/2.4364cc03.chunk.css.map",
-    "static/css/main.66d4a23a.chunk.css.map": "/React_Draggable/static/css/main.66d4a23a.chunk.css.map"
+    "static/css/main.e1427b0a.chunk.css.map": "/React_Draggable/static/css/main.e1427b0a.chunk.css.map"
   }
 }
