@@ -15,6 +15,8 @@ class App extends React.Component {
   }
 
   render() {
+    if (!localStorage.getItem("email"))
+      this.props.history.push({ pathname: "/" });
     return (
       <div className="App">
         <header className="header">
