@@ -16,6 +16,7 @@
   font-size: 25px;
   font-size: 20px;
   padding-right: 10px;
+  position: relative;
 }
 
 .header > span > i {
@@ -28,8 +29,8 @@
   display: none;
   background: white;
   color: black;
-  right: 206px;
-  top: 40px;
+  left: 40px;
+  top: 6px;
   padding: 5px 15px;
   font-size: 18px;
   cursor: pointer;
